@@ -1,0 +1,10 @@
+# output files
+function.zip
+
+# caches and such
+.terraform/
+*tfstate*
+*tfplan*
+
+# secrets
+.env
